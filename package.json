@@ -1,0 +1,16 @@
+{
+  "name": "you-dont-know-html",
+  "version": "1.0.0",
+  "description": "Some HTML5 things you may not know",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "kai",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.8"
+  }
+}
